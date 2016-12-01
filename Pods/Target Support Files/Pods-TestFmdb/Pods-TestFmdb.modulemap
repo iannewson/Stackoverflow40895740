@@ -1,0 +1,6 @@
+framework module Pods_TestFmdb {
+  umbrella header "Pods-TestFmdb-umbrella.h"
+
+  export *
+  module * { export * }
+}
